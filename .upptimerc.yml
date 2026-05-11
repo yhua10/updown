@@ -7,6 +7,10 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
+  - name: oo
+    url: https://oo.buaa.edu.cn
+  - name: OSome
+    url: https://os.buaa.edu.cn
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Test Broken Site
