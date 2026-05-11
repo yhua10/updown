@@ -40,19 +40,19 @@
     "url": "https://os.buaa.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/os.buaa.edu.cn.ico",
     "slug": "o-some",
-    "status": "down",
-    "uptime": "81.15%",
-    "uptimeDay": "81.15%",
-    "uptimeWeek": "81.15%",
-    "uptimeMonth": "81.15%",
-    "uptimeYear": "81.15%",
-    "time": 1890,
-    "timeDay": 1890,
-    "timeWeek": 1890,
-    "timeMonth": 1890,
-    "timeYear": 1890,
+    "status": "up",
+    "uptime": "73.96%",
+    "uptimeDay": "73.96%",
+    "uptimeWeek": "73.96%",
+    "uptimeMonth": "73.96%",
+    "uptimeYear": "73.96%",
+    "time": 1880,
+    "timeDay": 1880,
+    "timeWeek": 1880,
+    "timeMonth": 1880,
+    "timeYear": 1880,
     "dailyMinutesDown": {
-      "2026-05-11": 173
+      "2026-05-11": 263
     }
   },
   {
