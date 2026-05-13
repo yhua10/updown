@@ -1,5 +1,67 @@
 [
   {
+    "name": "OSome",
+    "url": "https://os.buaa.edu.cn",
+    "icon": "https://icons.duckduckgo.com/ip3/os.buaa.edu.cn.ico",
+    "slug": "o-some",
+    "status": "up",
+    "uptime": "81.72%",
+    "uptimeDay": "83.56%",
+    "uptimeWeek": "81.72%",
+    "uptimeMonth": "81.72%",
+    "uptimeYear": "81.72%",
+    "time": 1977,
+    "timeDay": 2111,
+    "timeWeek": 1977,
+    "timeMonth": 1977,
+    "timeYear": 1977,
+    "dailyMinutesDown": {
+      "2026-05-13": 49,
+      "2026-05-12": 188,
+      "2026-05-11": 395
+    }
+  },
+  {
+    "name": "JumpServer",
+    "url": "https://lab.os.buaa.edu.cn",
+    "icon": "https://icons.duckduckgo.com/ip3/lab.os.buaa.edu.cn.ico",
+    "slug": "jump-server",
+    "status": "down",
+    "uptime": "39.44%",
+    "uptimeDay": "39.44%",
+    "uptimeWeek": "39.44%",
+    "uptimeMonth": "39.44%",
+    "uptimeYear": "39.44%",
+    "time": 5798,
+    "timeDay": 5798,
+    "timeWeek": 5798,
+    "timeMonth": 5798,
+    "timeYear": 5798,
+    "dailyMinutesDown": {
+      "2026-05-13": 1
+    }
+  },
+  {
+    "name": "极狐 GitLab",
+    "url": "https://git.os.buaa.edu.cn",
+    "icon": "https://icons.duckduckgo.com/ip3/git.os.buaa.edu.cn.ico",
+    "slug": "git-lab",
+    "status": "down",
+    "uptime": "59.79%",
+    "uptimeDay": "59.79%",
+    "uptimeWeek": "59.79%",
+    "uptimeMonth": "59.79%",
+    "uptimeYear": "59.79%",
+    "time": 5630,
+    "timeDay": 5630,
+    "timeWeek": 5630,
+    "timeMonth": 5630,
+    "timeYear": 5630,
+    "dailyMinutesDown": {
+      "2026-05-13": 44
+    }
+  },
+  {
     "name": "Google",
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
@@ -11,7 +73,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 80,
-    "timeDay": 63,
+    "timeDay": 66,
     "timeWeek": 80,
     "timeMonth": 80,
     "timeYear": 80,
@@ -28,54 +90,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 135,
+    "time": 125,
     "timeDay": 36,
-    "timeWeek": 135,
-    "timeMonth": 135,
-    "timeYear": 135,
+    "timeWeek": 125,
+    "timeMonth": 125,
+    "timeYear": 125,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "OSome",
-    "url": "https://os.buaa.edu.cn",
-    "icon": "https://icons.duckduckgo.com/ip3/os.buaa.edu.cn.ico",
-    "slug": "o-some",
-    "status": "up",
-    "uptime": "81.38%",
-    "uptimeDay": "83.56%",
-    "uptimeWeek": "81.38%",
-    "uptimeMonth": "81.38%",
-    "uptimeYear": "81.38%",
-    "time": 1850,
-    "timeDay": 1890,
-    "timeWeek": 1850,
-    "timeMonth": 1850,
-    "timeYear": 1850,
-    "dailyMinutesDown": {
-      "2026-05-13": 49,
-      "2026-05-12": 188,
-      "2026-05-11": 395
-    }
-  },
-  {
-    "name": "极狐 GitLab",
-    "url": "https://git.os.buaa.edu.cn",
-    "icon": "https://icons.duckduckgo.com/ip3/git.os.buaa.edu.cn.ico",
-    "slug": "git-lab",
-    "status": "up",
-    "uptime": "10.68%",
-    "uptimeDay": "10.68%",
-    "uptimeWeek": "10.68%",
-    "uptimeMonth": "10.68%",
-    "uptimeYear": "10.68%",
-    "time": 8964,
-    "timeDay": 8964,
-    "timeWeek": 8964,
-    "timeMonth": 8964,
-    "timeYear": 8964,
-    "dailyMinutesDown": {
-      "2026-05-13": 44
-    }
   },
   {
     "name": "Hacker News",
@@ -88,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 299,
-    "timeDay": 380,
-    "timeWeek": 299,
-    "timeMonth": 299,
-    "timeYear": 299,
+    "time": 276,
+    "timeDay": 278,
+    "timeWeek": 276,
+    "timeMonth": 276,
+    "timeYear": 276,
     "dailyMinutesDown": {}
   },
   {
