@@ -63,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.os.buaa.edu.cn.ico",
     "slug": "git-lab",
     "status": "down",
-    "uptime": "91.51%",
-    "uptimeDay": "91.51%",
-    "uptimeWeek": "91.51%",
-    "uptimeMonth": "91.51%",
-    "uptimeYear": "91.51%",
+    "uptime": "89.80%",
+    "uptimeDay": "89.80%",
+    "uptimeWeek": "89.80%",
+    "uptimeMonth": "89.80%",
+    "uptimeYear": "89.80%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-13": 0
+      "2026-05-13": 1
     }
   },
   {
