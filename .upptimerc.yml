@@ -9,6 +9,8 @@ sites:
     url: https://en.wikipedia.org
   - name: OSome
     url: https://os.buaa.edu.cn
+  - name: 极狐 GitLab
+    url: https://git.os.buaa.edu.cn
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Test Broken Site
