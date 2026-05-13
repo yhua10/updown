@@ -3,14 +3,16 @@ owner: yhua10
 repo: updown
 
 sites:
+  - name: OSome
+    url: https://os.buaa.edu.cn
+  - name: JumpServer
+    url: https://lab.os.buaa.edu.cn
+  - name: 极狐 GitLab
+    url: https://git.os.buaa.edu.cn
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: OSome
-    url: https://os.buaa.edu.cn
-  - name: 极狐 GitLab
-    url: https://git.os.buaa.edu.cn
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Test Broken Site
