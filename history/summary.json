@@ -4,12 +4,12 @@
     "url": "https://os.buaa.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/os.buaa.edu.cn.ico",
     "slug": "o-some",
-    "status": "up",
-    "uptime": "75.50%",
-    "uptimeDay": "77.85%",
-    "uptimeWeek": "79.45%",
-    "uptimeMonth": "75.50%",
-    "uptimeYear": "75.50%",
+    "status": "down",
+    "uptime": "76.11%",
+    "uptimeDay": "82.40%",
+    "uptimeWeek": "79.37%",
+    "uptimeMonth": "76.11%",
+    "uptimeYear": "76.11%",
     "time": 2796,
     "timeDay": 1833,
     "timeWeek": 2691,
@@ -40,7 +40,8 @@
       "2026-06-01": 287,
       "2026-06-03": 292,
       "2026-06-02": 290,
-      "2026-06-04": 319
+      "2026-06-04": 319,
+      "2026-06-05": 10
     }
   },
   {
@@ -48,12 +49,12 @@
     "url": "https://lab.os.buaa.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/lab.os.buaa.edu.cn.ico",
     "slug": "jump-server",
-    "status": "up",
-    "uptime": "74.93%",
-    "uptimeDay": "78.18%",
-    "uptimeWeek": "79.78%",
-    "uptimeMonth": "74.93%",
-    "uptimeYear": "74.93%",
+    "status": "down",
+    "uptime": "75.63%",
+    "uptimeDay": "82.73%",
+    "uptimeWeek": "79.73%",
+    "uptimeMonth": "75.63%",
+    "uptimeYear": "75.63%",
     "time": 2376,
     "timeDay": 1988,
     "timeWeek": 2075,
@@ -82,7 +83,8 @@
       "2026-06-01": 282,
       "2026-06-03": 287,
       "2026-06-02": 285,
-      "2026-06-04": 314
+      "2026-06-04": 314,
+      "2026-06-05": 5
     }
   },
   {
@@ -90,12 +92,12 @@
     "url": "https://git.os.buaa.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/git.os.buaa.edu.cn.ico",
     "slug": "git-lab",
-    "status": "up",
-    "uptime": "75.42%",
-    "uptimeDay": "78.51%",
-    "uptimeWeek": "80.77%",
-    "uptimeMonth": "75.42%",
-    "uptimeYear": "75.42%",
+    "status": "down",
+    "uptime": "76.11%",
+    "uptimeDay": "83.06%",
+    "uptimeWeek": "80.76%",
+    "uptimeMonth": "76.11%",
+    "uptimeYear": "76.11%",
     "time": 4848,
     "timeDay": 6438,
     "timeWeek": 4638,
@@ -124,7 +126,8 @@
       "2026-06-01": 278,
       "2026-06-03": 283,
       "2026-06-02": 280,
-      "2026-06-04": 310
+      "2026-06-04": 310,
+      "2026-06-05": 0
     }
   },
   {
